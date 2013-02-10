@@ -1,7 +1,7 @@
 
 # Noty
 
-TODO: Write a gem description
+This gem will create a notification bar at the bottom of the page for every flash message.
 
 ## Installation
 
@@ -17,9 +17,15 @@ Or install it yourself as:
 
     $ gem install noty
 
+Then run the noty generator to add noty includes into your assets:
+
+		rails generate noty_theme
+
 ## Usage
 
-TODO: Write usage instructions here
+Add this line in application.html.erb
+
+		<%= notification %>
 
 ## Contributing
 
