@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Noty
 
 TODO: Write a gem description
@@ -28,9 +27,3 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
-=======
-noty
-====
-
-create notification bar from the flash message at the bottom of the page 
->>>>>>> eeb33675bb509f2a67df500a39796734397817aa
