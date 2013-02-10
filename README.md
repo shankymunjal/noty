@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Noty
 
 TODO: Write a gem description
@@ -32,5 +32,4 @@ TODO: Write usage instructions here
 noty
 ====
 
-create notification bar from the flash message at the bottom of the page 
->>>>>>> eeb33675bb509f2a67df500a39796734397817aa
+create notification bar from the flash message at the bottom of the page
