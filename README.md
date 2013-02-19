@@ -7,7 +7,7 @@ This gem will create a notification bar at the bottom of the page for every flas
 
 Add this line to your application's Gemfile:
 
-    gem 'noty'
+    gem 'noty', git: 'git://github.com/shankymunjal/noty.git'
 
 And then execute:
 
