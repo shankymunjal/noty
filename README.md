@@ -19,7 +19,7 @@ Or install it yourself as:
 
 Then run the noty generator to add noty includes into your assets:
 
-		rails generate noty_theme
+		$ rails generate noty_theme
 
 ## Usage
 
